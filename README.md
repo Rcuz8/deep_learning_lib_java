@@ -4,7 +4,7 @@ Well-interfaced Articial Neural Network Implementation with an excellent suite o
   - Network Optimization tools
   - Data Handling/Formatting tools 
   - Outputting tools
-  
-##Includes a Unit-tested JSON Parser & Builder, which, on its own, will be a very useful package to have as a Java Developer.
+
+**Includes a Unit-tested JSON Parser & Builder, which is also awesome for docstring building. Use it in your own projects, if you like it.**
 
 Usage examples will be added to these docs!

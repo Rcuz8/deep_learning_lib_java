@@ -1,5 +1,9 @@
-# User-Centric Deep Learning Library | Written in Java
+# 🍉 User-Centric Deep Learning Library | Written in Java 🍉
 
-This library contains not only a well-interfaced Articial Neural Network Implementation, but an excellent suite of both Optimization and Data Handling tools :)
+Well-interfaced Articial Neural Network Implementation with an excellent suite of:
+  - Network Optimization tools
+  - Data Handling/Formatting tools 
+
+
 
 Usage examples will be added to these docs!
